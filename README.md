@@ -5,6 +5,7 @@ TCP Ping
 Pokretanje:
 
 kompajliranje: javac -d . *.java
+
 pokretanje: java tcpping/TCPPing -argumenti
 
 PRIMJERI POKRETANJA
