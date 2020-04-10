@@ -1,14 +1,8 @@
-"# RTT-Java" 
+Starting the app:
+  compailing: javac -d . *.java
+  starting: java tcpping/TCPPing -args
 
-TCP Ping
-
-Pokretanje:
-
-kompajliranje: javac -d . *.java
-
-pokretanje: java tcpping/TCPPing -argumenti
-
-PRIMJERI POKRETANJA
+Examples:
 
 CATCHER:
 java tcpping/TCPPing -c 192.168.0.12 6000
